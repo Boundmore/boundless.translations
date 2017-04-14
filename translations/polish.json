@@ -1,8 +1,8 @@
 {
-    "ITEM_TYPE_AIR"                                             : "Air",
+    "ITEM_TYPE_AIR"                                             : "Powietrze",
     "ITEM_TYPE_MANTLE_DEFAULT_BASE"                             : "Mantle",
-    "LIQUID_WATER"                                              : "Water",
-    "LIQUID_LAVA"                                               : "Lava",
+    "LIQUID_WATER"                                              : "Woda",
+    "LIQUID_LAVA"                                               : "Lawa",
 
     "ITEM_TYPE_SOIL_SILTY_BASE"                                 : "Silty Soil",
     "ITEM_TYPE_SOIL_SILTY_BASE_SUBTITLE"                        : "Common Natural Block",
